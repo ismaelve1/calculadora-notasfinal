@@ -22,10 +22,12 @@ def media_ponderada(notas, pesos):
 
 
 def nota_maxima(notas):
+    """Devuelve la nota más alta de la lista."""
     return max(notas)
 
 
 def nota_minima(notas):
+    """Devuelve la nota más baja de la lista."""
     return min(notas)
 
 
