@@ -6,4 +6,3 @@ Práctica de control de versiones con Git y GitHub.
 ## Uso
 
 Ejecuta `python main.py`.
-ct
