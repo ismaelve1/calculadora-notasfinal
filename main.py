@@ -1,3 +1,6 @@
+"""Calcula estadísticas de notas."""
+
+
 def media(notas):
     """Devuelve la media aritmética de una lista de notas."""
     return sum(notas) / len(notas)
